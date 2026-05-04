@@ -1,6 +1,6 @@
-# Olá! 👋 Bem-vindo ao meu GitHub
+# Bem-vindo ao meu GitHub
 
-Sou **Yago Carvalho**, estudante de Engenharia de Software no **IBMEC** e estou trabalhando na minha própria "Branding", a **LiberumStack**. Sou apaixonado por arquitetar soluções inovadoras que conectam o mundo digital e o físico, resolvendo problemas reais através da interseção entre software robusto e integração de hardware.
+Meu nome **Yago Carvalho**, sou estudante de Engenharia de Software no **IBMEC** e estou trabalhando na minha própria "Branding", a **LiberumStack**. Sou apaixonado por arquitetar soluções inovadoras que conectam o mundo digital e o físico, resolvendo problemas reais através da interseção entre software robusto e integração de hardware.
 
 ## 🚀 O que faço
 
@@ -20,24 +20,24 @@ Sou **Yago Carvalho**, estudante de Engenharia de Software no **IBMEC** e estou 
 ## 📋 Projetos Destacados
 
 ### 🏢 LiberumEdge (SICF-AD) | LiberumStack
-O "carro-chefe" da minha software house. Um Sistema Integrado de Controle de Frequência (REP-P) focado em empresas offshore. Possui uma arquitetura *offline-first* super resiliente com biometria facial, garantindo o registro mesmo em ambientes sem internet.
+O "carro-chefe" da minha trajetória, no momento. Um Sistema Integrado de Controle de Frequência (REP-P) focado em empresas offshore. Possui uma arquitetura *offline-first* super resiliente com biometria facial, garantindo o registro mesmo em ambientes sem internet.
 
 ### 📡 IoT & Sistemas Embarcados
 - **Mesh-Alarm:** Um sistema *offline* de detecção de incêndios florestais estruturado através de redes mesh.
 - **ProxiStaff:** Sistema embarcado acadêmico desenhado para salas de aula, permitindo que professores façam chamados rápidos e diretos para a equipe de suporte.
 
 ### 🤖 Automações & Gamificação (FGV Direito-Rio)
-Desenvolvimento de scripts administrativos e do projeto **FGV Stars**, um sistema de gamificação inovador para o estabelecimento de pontos acadêmicos e otimização de fluxos na instituição.
+Desenvolvimento de scripts para automações administrativas e do projeto **FGV Stars**, um sistema de gamificação inovador para o estabelecimento de pontos acadêmicos e otimização de fluxos na instituição.
 
 ### 💕 More Beach Hostel - Match App
-Aplicação no estilo "Tinder" desenvolvida especificamente para os hóspedes do hostel, facilitando conexões reais entre viajantes de forma intuitiva.
+Aplicação no estilo "Tinder" desenvolvido especificamente para os hóspedes do hostel, facilitando conexões reais entre viajantes de forma intuitiva.
 
 ## 🎯 Além do Código
 
 Quando não estou programando para a LiberumStack ou estudando, minha cabeça geralmente está em outros universos:
-- 🌌 **Ciência & Física Teórica:** Fascinado pelo estudo da relatividade, vibração de cordas unidimensionais e o potencial da Equação de Majorana na computação quântica.
-- 📚 **Cultura Geek & Sci-Fi:** Consumidor assíduo de horror cósmico (Lovecraft) e grandes obras de ficção científica (como *Ad Astra*).
-- 🎮 **Gaming:** Sempre que possível, aproveitando *Diablo IV* ou *Dragon Ball Sparking ZERO* (e montando PCs no tempo livre).
+- 🌌 **Ciência:** Entusiasta do estudo da relatividade, e do potencial das Equações que regem o Machine Learning e a computação quântica.
+- 📚 **Cultura "Geek" & Sci-Fi:** Consumidor assíduo de grandes obras de ficção científica.
+- 🎮 **Gaming:** Sempre que possível aproveito do meu tempo livre para criar alguns jogos (em JAVA e HTML no estilo RPG) para constantemente aprimorar e solidificar meus conhecimentos e me divertir enquanto o faço.
 
 ## 📫 Conecte-se comigo
 
@@ -46,6 +46,6 @@ Quando não estou programando para a LiberumStack ou estudando, minha cabeça ge
 
 ---
 
-**"Code is poetry, automation is art, and building the future is the ultimate quest."** ✨
+**"Para mim, um código bem escrito é uma obra de arte capaz de salvar operações."** ✨
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato para colaborações!

@@ -26,11 +26,11 @@ O "carro-chefe" da minha trajetória, no momento. Um Sistema Integrado de Contro
 - **Mesh-Alarm:** Um sistema *offline* de detecção de incêndios florestais estruturado através de redes mesh.
 - **ProxiStaff:** Sistema embarcado acadêmico desenhado para salas de aula, permitindo que professores façam chamados rápidos e diretos para a equipe de suporte.
 
-### 🤖 Automações & Gamificação (FGV Direito-Rio)
-Desenvolvimento de scripts para automações administrativas e do projeto **FGV Stars**, um sistema de gamificação inovador para o estabelecimento de pontos acadêmicos e otimização de fluxos na instituição.
+### 🤖 (FGV Direito-Rio)
+Atualmente atuo na FGV Direito-Rio, trabalhando no desenvolvimento de scripts para automações administrativas, aplicações no PowerApps, fluxos no PowerAutomate e ainda do projeto **FGV Stars**, um sistema de gamificação inovador para o estabelecimento de pontos acadêmicos e otimização de fluxos na instituição.
 
-### 💕 More Beach Hostel - Match App
-Aplicação no estilo "Tinder" desenvolvido especificamente para os hóspedes do hostel, facilitando conexões reais entre viajantes de forma intuitiva.
+### 💕 More Beach Hostels - Match App
+Aplicação no estilo "Tinder" desenvolvido especificamente para os hóspedes dos hostels da rede More, facilitando conexões reais entre viajantes de forma intuitiva.
 
 ## 🎯 Além do Código
 

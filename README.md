@@ -38,9 +38,8 @@ Aplicação tipo "Tinder" desenvolvida para hóspedes do More Beach Hostel, faci
 
 ## 📫 Conecte-se comigo
 
-- 💼 [LinkedIn](https://linkedin.com/in/seu-usuario)
-- 🌐 [Portfolio](https://seu-portfolio.com)
-- 📧 Email: seu-email@exemplo.com
+- 💼 [LinkedIn](https://linkedin.com/in/yago-carvalho-ds)
+- 📧 Email: yago3547@gmail.com
 
 ---
 

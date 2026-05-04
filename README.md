@@ -1,6 +1,6 @@
 # Olá! 👋 Bem-vindo ao meu GitHub
 
-Sou **Yago Carvalho**, estudante de Engenharia de Software no **IBMEC** e fundador da **LiberumStack**. Sou apaixonado por arquitetar soluções inovadoras que conectam o mundo digital e o físico, resolvendo problemas reais através da interseção entre software robusto e integração de hardware.
+Sou **Yago Carvalho**, estudante de Engenharia de Software no **IBMEC** e estou trabalhando na minha própria "Branding", a **LiberumStack**. Sou apaixonado por arquitetar soluções inovadoras que conectam o mundo digital e o físico, resolvendo problemas reais através da interseção entre software robusto e integração de hardware.
 
 ## 🚀 O que faço
 

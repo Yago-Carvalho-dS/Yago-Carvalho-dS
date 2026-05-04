@@ -1,6 +1,6 @@
 # Bem-vindo ao meu GitHub
 
-Meu nome **Yago Carvalho**, sou estudante de Engenharia de Software no **IBMEC** e estou trabalhando na minha própria "Branding", a **LiberumStack**. Sou apaixonado por arquitetar soluções inovadoras que conectam o mundo digital e o físico, resolvendo problemas reais através da interseção entre software robusto e integração de hardware.
+Meu nome **Yago Carvalho**, sou estudante de Engenharia de Software no **IBMEC** e estou trabalhando na minha própria "Branding", a **LiberumStack**. Escolhi atuar na área de Engenharia de Software por causa da minha grande afinidade com a tecnologia, por isso, estou sempre motivado a arquitetar soluções inovadoras que conectam o mundo digital e o físico, resolvendo problemas reais através da interseção entre software robusto, integração de hardware, pensamento crítico e da criatividade. 
 
 ## 🚀 O que faço
 

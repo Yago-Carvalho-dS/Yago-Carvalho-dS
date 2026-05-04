@@ -1,40 +1,43 @@
 # Olá! 👋 Bem-vindo ao meu GitHub
 
-Sou desenvolvedor Full-Stack apaixonado por criar soluções inovadoras que resolvem problemas reais. Trabalho na intersecção entre tecnologia, automatização e experiência do usuário.
+Sou **Yago Carvalho**, estudante de Engenharia de Software no **IBMEC** e fundador da **LiberumStack**. Sou apaixonado por arquitetar soluções inovadoras que conectam o mundo digital e o físico, resolvendo problemas reais através da interseção entre software robusto e integração de hardware.
 
 ## 🚀 O que faço
 
-- **Desenvolvimento Full-Stack:** Criação de aplicações web modernas com HTML, CSS, JavaScript e React no frontend, e Django no backend
-- **Automações Inteligentes:** Desenvolvimento de scripts Python para automatizar processos complexos na FGV Direito-Rio
-- **Soluções Offline-First:** Criação de aplicações resilientes que funcionam em ambientes com conectividade limitada (REP-P)
-- **Experiências de Usuário:** Design e desenvolvimento de interfaces intuitivas e engajantes
+- **Desenvolvimento Full-Stack:** Criação de arquiteturas escaláveis utilizando **Django (Python)** no backend e **React** no frontend.
+- **Sistemas Embarcados & IoT:** Integração de hardware com Arduino, ESP32 e módulos LoRaWAN para soluções de longo alcance e baixo consumo.
+- **Soluções Offline-First:** Construção de sistemas resilientes que operam em ambientes de conectividade limitada (como reconhecimento facial biométrico offline).
+- **Automações & Ferramentas Internas:** Desenvolvimento de scripts Python e sistemas de gamificação para otimizar processos complexos.
 
-## 💻 Tecnologias & Stack
+## 💻 Tecnologias & Ferramentas
 
-- **Frontend:** HTML5, CSS3, JavaScript, React
-- **Backend:** Django, Python
-- **Especialidades:** Automação, Offline-First, APIs RESTful
+- **Linguagens:** Python, C++, JavaScript, HTML5, CSS3
+- **Frameworks & Bibliotecas:** Django, React
+- **Infraestrutura & Cloud:** AWS (EC2, IAM, Cost Management)
+- **Hardware & IoT:** Arduino, ESP32, Shield LoRaWAN v1.0
+- **Ferramentas:** VS Code, IntelliJ
 
 ## 📋 Projetos Destacados
 
-### 🌐 Projetos Full-Stack
-Aplicações web completas desenvolvidas com React e Django, com foco em performance e experiência do usuário.
+### 🏢 LiberumEdge (SICF-AD) | LiberumStack
+O "carro-chefe" da minha software house. Um Sistema Integrado de Controle de Frequência (REP-P) focado em empresas offshore. Possui uma arquitetura *offline-first* super resiliente com biometria facial, garantindo o registro mesmo em ambientes sem internet.
 
-### 🤖 Automações FGV Direito-Rio
-Scripts Python que automatizam processos administrativos e otimizam fluxos de trabalho na instituição.
+### 📡 IoT & Sistemas Embarcados
+- **Mesh-Alarm:** Um sistema *offline* de detecção de incêndios florestais estruturado através de redes mesh.
+- **ProxiStaff:** Sistema embarcado acadêmico desenhado para salas de aula, permitindo que professores façam chamados rápidos e diretos para a equipe de suporte.
 
-### 📡 REP-P - Soluções Offshore
-Plataforma desenvolvida para empresas offshore, com arquitetura resiliente que funciona em ambientes com conectividade limitada ou intermitente.
+### 🤖 Automações & Gamificação (FGV Direito-Rio)
+Desenvolvimento de scripts administrativos e do projeto **FGV Stars**, um sistema de gamificação inovador para o estabelecimento de pontos acadêmicos e otimização de fluxos na instituição.
 
 ### 💕 More Beach Hostel - Match App
-Aplicação tipo "Tinder" desenvolvida para hóspedes do More Beach Hostel, facilitando conexões entre viajantes.
+Aplicação no estilo "Tinder" desenvolvida especificamente para os hóspedes do hostel, facilitando conexões reais entre viajantes de forma intuitiva.
 
-## 🎯 Interesse em
+## 🎯 Além do Código
 
-- Desenvolvimento Full-Stack
-- Automação e otimização de processos
-- Soluções para ambientes com recursos limitados
-- Inovação em experiência do usuário
+Quando não estou programando para a LiberumStack ou estudando, minha cabeça geralmente está em outros universos:
+- 🌌 **Ciência & Física Teórica:** Fascinado pelo estudo da relatividade, vibração de cordas unidimensionais e o potencial da Equação de Majorana na computação quântica.
+- 📚 **Cultura Geek & Sci-Fi:** Consumidor assíduo de horror cósmico (Lovecraft) e grandes obras de ficção científica (como *Ad Astra*).
+- 🎮 **Gaming:** Sempre que possível, aproveitando *Diablo IV* ou *Dragon Ball Sparking ZERO* (e montando PCs no tempo livre).
 
 ## 📫 Conecte-se comigo
 
@@ -43,6 +46,6 @@ Aplicação tipo "Tinder" desenvolvida para hóspedes do More Beach Hostel, faci
 
 ---
 
-**"Code is poetry, automation is art."** ✨
+**"Code is poetry, automation is art, and building the future is the ultimate quest."** ✨
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato para colaborações!

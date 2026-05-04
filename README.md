@@ -1,16 +1,49 @@
-## Hi there 👋
+# Olá! 👋 Bem-vindo ao meu GitHub
 
-<!--
-**Yago-Carvalho-dS/Yago-Carvalho-dS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor Full-Stack apaixonado por criar soluções inovadoras que resolvem problemas reais. Trabalho na intersecção entre tecnologia, automatização e experiência do usuário.
 
-Here are some ideas to get you started:
+## 🚀 O que faço
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Desenvolvimento Full-Stack:** Criação de aplicações web modernas com HTML, CSS, JavaScript e React no frontend, e Django no backend
+- **Automações Inteligentes:** Desenvolvimento de scripts Python para automatizar processos complexos na FGV Direito-Rio
+- **Soluções Offline-First:** Criação de aplicações resilientes que funcionam em ambientes com conectividade limitada (REP-P)
+- **Experiências de Usuário:** Design e desenvolvimento de interfaces intuitivas e engajantes
+
+## 💻 Tecnologias & Stack
+
+- **Frontend:** HTML5, CSS3, JavaScript, React
+- **Backend:** Django, Python
+- **Especialidades:** Automação, Offline-First, APIs RESTful
+
+## 📋 Projetos Destacados
+
+### 🌐 Projetos Full-Stack
+Aplicações web completas desenvolvidas com React e Django, com foco em performance e experiência do usuário.
+
+### 🤖 Automações FGV Direito-Rio
+Scripts Python que automatizam processos administrativos e otimizam fluxos de trabalho na instituição.
+
+### 📡 REP-P - Soluções Offshore
+Plataforma desenvolvida para empresas offshore, com arquitetura resiliente que funciona em ambientes com conectividade limitada ou intermitente.
+
+### 💕 More Beach Hostel - Match App
+Aplicação tipo "Tinder" desenvolvida para hóspedes do More Beach Hostel, facilitando conexões entre viajantes.
+
+## 🎯 Interesse em
+
+- Desenvolvimento Full-Stack
+- Automação e otimização de processos
+- Soluções para ambientes com recursos limitados
+- Inovação em experiência do usuário
+
+## 📫 Conecte-se comigo
+
+- 💼 [LinkedIn](https://linkedin.com/in/seu-usuario)
+- 🌐 [Portfolio](https://seu-portfolio.com)
+- 📧 Email: seu-email@exemplo.com
+
+---
+
+**"Code is poetry, automation is art."** ✨
+
+Sinta-se à vontade para explorar meus repositórios e entrar em contato para colaborações!

@@ -40,4 +40,4 @@ Atuação direta na Fundação Getulio Vargas com o mapeamento e desenvolvimento
 
 ---
 
-> "Tecnologia aplicada à resolução de problemas operacionais de forma consistente."
+> " Tudo o que somos é o resultado do que pensamos; baseia-se em nossos pensamentos e é feito de nossos pensamentos."

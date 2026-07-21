@@ -1,51 +1,43 @@
-# Bem-vindo ao meu GitHub
+# Yago Carvalho
 
-Meu nome **Yago Carvalho**, sou estudante de Engenharia de Software no **IBMEC** e estou trabalhando na minha própria "Branding", a **LiberumStack**. Escolhi atuar na área por causa da minha grande afinidade com a tecnologia, por isso, estou sempre motivado a arquitetar soluções inovadoras que conectam o mundo digital e o físico, resolvendo problemas reais através da interseção entre software robusto, integração de hardware, pensamento crítico e da criatividade. 
+Desenvolvedor full-stack e estudante de Engenharia de Software. Meu foco de atuação é a construção de sistemas funcionais, integrando arquiteturas web, rotinas de automação e hardware para resolver problemas operacionais e facilitar processos corporativos.
 
-## 🚀 O que faço
+## Foco de Atuação
 
-- **Desenvolvimento Full-Stack:** Criação de arquiteturas escaláveis utilizando **Django (Python)** no backend e **React** no frontend.
-- **Sistemas Embarcados & IoT:** Integração de hardware com Arduino, ESP32 e módulos LoRaWAN para soluções de longo alcance e baixo consumo.
-- **Soluções Offline-First:** Construção de sistemas resilientes que operam em ambientes de conectividade limitada (como reconhecimento facial biométrico offline).
-- **Automações & Ferramentas Internas:** Desenvolvimento de scripts Python e sistemas de gamificação para otimizar processos complexos.
+- **Desenvolvimento Full-Stack:** Construção e manutenção de aplicações web utilizando Django e React.
+- **Soluções Offline-First:** Desenvolvimento de sistemas focados em estabilidade para ambientes com conectividade restrita, garantindo integridade e sincronização de dados.
+- **Sistemas Embarcados & IoT:** Aplicação prática de hardware (ESP32, Arduino, LoRaWAN) para monitoramento de longa distância e comunicação local.
+- **Automação de Processos:** Criação de scripts sistêmicos e integração de ferramentas para otimizar rotinas administrativas.
 
-## 💻 Tecnologias & Ferramentas
+## Stack Tecnológico
 
-- **Linguagens:** Python, C++, JavaScript, HTML5, CSS3
-- **Frameworks & Bibliotecas:** Django, React
-- **Infraestrutura & Cloud:** AWS (EC2, IAM, Cost Management)
-- **Hardware & IoT:** Arduino, ESP32, Shield LoRaWAN v1.0
-- **Ferramentas:** VS Code, IntelliJ
+- **Linguagens:** Python, C++, JavaScript, HTML/CSS
+- **Frameworks:** Django, React
+- **Infraestrutura:** AWS (EC2, IAM, Cost Management)
+- **Hardware:** ESP32, Arduino, LoRaWAN v1.0
 
-## 📋 Projetos Destacados
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,django,react,aws,arduino" alt="My Skills" />
+  </a>
+</p>
 
-### 🏢 LiberumEdge (SICF-AD) | LiberumStack
-O "carro-chefe" da minha trajetória, no momento. Um Sistema Integrado de Controle de Frequência (REP-P) focado em empresas offshore. Possui uma arquitetura *offline-first* super resiliente com biometria facial, garantindo o registro mesmo em ambientes sem internet.
+## Projetos Destacados
 
-### 📡 IoT & Sistemas Embarcados
-- **Mesh-Alarm:** Um sistema *offline* de detecção de incêndios florestais estruturado através de redes mesh.
-- **ProxiStaff:** Sistema embarcado acadêmico desenhado para salas de aula, permitindo que professores façam chamados rápidos e diretos para a equipe de suporte.
+### SICF-AD
+Sistema Integrado de Controle de Frequência (REP-P) desenvolvido para o setor offshore. A aplicação realiza registros locais através de validação biométrica e opera de forma autônoma sem necessidade de rede, sincronizando os dados com os servidores na nuvem assim que a conexão é restabelecida.
 
-### 🤖 (FGV Direito-Rio)
-Atualmente atuo na FGV Direito-Rio, trabalhando no desenvolvimento de scripts para automações administrativas, aplicações no PowerApps, fluxos no PowerAutomate e ainda do projeto **FGV Stars**, um sistema de gamificação inovador para o estabelecimento de pontos acadêmicos e otimização de fluxos na instituição.
+### Sistemas Embarcados (Mesh-Alarm & ProxiStaff)
+Projetos de hardware aplicados a contextos específicos. O Mesh-Alarm é um protótipo de rede mesh para monitoramento de incêndios florestais. O ProxiStaff é um sistema acadêmico que facilita a comunicação direta entre professores em sala de aula e a equipe de suporte da instituição.
 
-### 💕 More Beach Hostels - Match App
-Aplicação no estilo "Tinder" desenvolvido especificamente para os hóspedes dos hostels da rede More, facilitando conexões reais entre viajantes de forma intuitiva.
+### FGV Direito-Rio
+Atuação direta na Fundação Getulio Vargas com o mapeamento e desenvolvimento de automações administrativas utilizando o ecossistema Power Platform e Python.
 
-## 🎯 Além do Código
+## Contato
 
-Quando não estou programando para a LiberumStack ou estudando, minha cabeça geralmente está em outros universos:
-- 🌌 **Ciência:** Entusiasta do estudo da relatividade, e do potencial das Equações que regem o Machine Learning e a computação quântica.
-- 📚 **Cultura "Geek" & Sci-Fi:** Consumidor assíduo de grandes obras de ficção científica.
-- 🎮 **Gaming:** Sempre que possível aproveito do meu tempo livre para criar alguns jogos (em JAVA e HTML no estilo RPG) para constantemente aprimorar e solidificar meus conhecimentos e me divertir enquanto o faço.
-
-## 📫 Conecte-se comigo
-
-- 💼 [LinkedIn](https://linkedin.com/in/yago-carvalho-ds)
-- 📧 Email: yago3547@gmail.com
+- **LinkedIn:** [linkedin.com/in/yago-carvalho-ds](https://linkedin.com/in/yago-carvalho-ds)
+- **Email:** yago3547@gmail.com
 
 ---
 
-**"Para mim, um código bem escrito é uma obra de arte capaz de salvar operações."** ✨
-
-Sinta-se à vontade para explorar meus repositórios e entrar em contato para colaborações!
+> "Tecnologia aplicada à resolução de problemas operacionais de forma consistente."

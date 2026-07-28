@@ -37,6 +37,7 @@ Atuação direta na Fundação Getulio Vargas com o mapeamento e desenvolvimento
 
 - **LinkedIn:** [linkedin.com/in/yago-carvalho-ds](https://linkedin.com/in/yago-carvalho-ds)
 - **Email:** yago3547@gmail.com
+- **Site:** liberumstack.com.br
 
 ---
 
